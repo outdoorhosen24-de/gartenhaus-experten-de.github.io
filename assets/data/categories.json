@@ -1,107 +1,51 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "holz-gartenhäuser",
+        "name": "Holz-Gartenhäuser",
+        "slug": "holz-gartenhauser",
+        "productCategory": "Holz-Gartenhäuser",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "metall-gerätehäuser",
+        "name": "Metall-Gerätehäuser",
+        "slug": "metall-geratehauser",
+        "productCategory": "Metall-Gerätehäuser",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "grillkotas",
+        "name": "Grillkotas",
+        "slug": "grillkotas",
+        "productCategory": "Grillkotas",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "gartenhaus-zubehör",
+        "name": "Gartenhaus-Zubehör",
+        "slug": "gartenhaus-zubehor",
+        "productCategory": "Gartenhaus-Zubehör",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "wpc-gartenhäuser",
+        "name": "WPC-Gartenhäuser",
+        "slug": "wpc-gartenhauser",
+        "productCategory": "WPC-Gartenhäuser",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "kunststoff-gartenhäuser",
+        "name": "Kunststoff-Gartenhäuser",
+        "slug": "kunststoff-gartenhauser",
+        "productCategory": "Kunststoff-Gartenhäuser",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
-        "subCategories": []
-    },
-    {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
-        "subCategories": []
-    },
-    {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
-        "subCategories": []
-    },
-    {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
-        "subCategories": []
-    },
-    {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
-        "subCategories": []
-    },
-    {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
-        "subCategories": []
-    },
-    {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "weekendhäuser",
+        "name": "Weekendhäuser",
+        "slug": "weekendhauser",
+        "productCategory": "Weekendhäuser",
         "subCategories": []
     }
 ]

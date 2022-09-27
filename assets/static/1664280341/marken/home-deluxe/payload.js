@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/home-deluxe", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/home-deluxe-geraeteschuppen-deluxe-xs-89-cm-x-163-cm-x-182-cm-home-deluxe-7637911-1.jpg":"\u002Fassets\u002Fimages\u002Fhome-deluxe-geraeteschuppen-deluxe-xs-89-cm-x-163-cm-x-182-cm-home-deluxe-7637911-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/arrow", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/arrow-geraetehaus-duesseldorf-65-172-cm-x-194-cm-x-151-cm-arrow-3605466-1.jpg":"\u002Fassets\u002Fimages\u002Farrow-geraetehaus-duesseldorf-65-172-cm-x-194-cm-x-151-cm-arrow-3605466-1.webp"}}],fetch:{},mutations:void 0});

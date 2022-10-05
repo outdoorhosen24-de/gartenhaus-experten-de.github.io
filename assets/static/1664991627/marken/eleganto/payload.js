@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/eleganto", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/eleganto-metall-geraetehaus-eleganto-granitgrau-96-m2-eleganto-7683485-1.jpg":"\u002Fassets\u002Fimages\u002Feleganto-metall-geraetehaus-eleganto-granitgrau-96-m2-eleganto-7683485-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "gartenhaus-experten.de",
+    "hostname": "https://www.gartenhaus-experten.de/",
+    "email": "gartenhaus-experten.desurrealnetworks.io",
+    "organization": "gartenhaus-experten.de",
+    "logoText": "Gartenhaus-experten.de",
+    "title": "Gartenh\u00e4user",
+    "subline": "Der Online Shop f\u00fcr Gartenh\u00e4user",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "2995801",
+        "2998243",
+        "2083640",
+        "3014529",
+        "3011863",
+        "2995629"
+    ],
+    "winnerProducts": [
+        "6322341",
+        "4582292",
+        "5363486"
+    ],
+    "featuredCategories": [
+        "Weekendh\u00e4user",
+        "WPC-Gartenh\u00e4user",
+        "Grillkotas",
+        "Kunststoff-Gartenh\u00e4user",
+        "Metall-Ger\u00e4teh\u00e4user",
+        "Metall-Ger\u00e4teh\u00e4user"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenh\u00e4user",
-        "featureText": "Your featured text goes here",
+        "featureText": "Gartenh\u00e4user sind die perfekte Erg\u00e4nzung f\u00fcr jeden Garten. Sie bieten Schutz vor Wind und Wetter und sind eine gro\u00dfartige M\u00f6glichkeit, Ihren Garten zu personalisieren. Bei uns finden Sie eine gro\u00dfe Auswahl an Gartenh\u00e4usern in verschiedenen Gr\u00f6\u00dfen, Designs und Ausf\u00fchrungen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Gartenh\u00e4user - Alles f\u00fcr Ihren Garten",
+            "metaDescription": "Gartenh\u00e4user in bester Qualit\u00e4t und zu g\u00fcnstigen Preisen. Hier findest du alles, was du f\u00fcr deinen Garten brauchst!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Gartenh\u00e4user: Die sch\u00f6nsten H\u00e4user f\u00fcr Ihren Garten",
+                    "text": "Gartenh\u00e4user sind kleine H\u00e4user, die in G\u00e4rten oder auf Terrassen stehen. Sie k\u00f6nnen aus Holz, Metall oder anderen Materialien gebaut werden und dienen h\u00e4ufig als Abstellraum f\u00fcr Gartenwerkzeuge oder als Unterkunft f\u00fcr Haustiere. Gartenh\u00e4user k\u00f6nnen auch als G\u00e4steh\u00e4user oder als B\u00fcrogeb\u00e4ude genutzt werden."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenh\u00e4user Shop",
+            "metaDescription": "Gartenh\u00e4user in bester Qualit\u00e4t online kaufen im Shop.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenh\u00e4user - Manufacturer",
+            "metaDescription": "Gartenh\u00e4user - Finden Sie hier den passenden Hersteller f\u00fcr Ihr Gartenhaus. Wir haben eine gro\u00dfe Auswahl an Gartenh\u00e4usern f\u00fcr Sie!",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Gartenh\u00e4user - die besten H\u00e4user f\u00fcr Ihren Garten",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das ideale Gartenh\u00e4uschen f\u00fcr Ihren Garten. $KATEGORIE",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Gartenh\u00e4user f\u00fcr jeden Geschmack",
+        "defaultMetaDescription": "Gartenh\u00e4user in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen. $KATEGORIE f\u00fcr Ihren Garten.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Gartenh\u00e4user: Hier finden Sie unsere aktuelle Kollektion an Gartenh\u00e4usern in unterschiedlichen Gr\u00f6\u00dfen, Ausf\u00fchrungen und Designs.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Gartenh\u00e4user",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Gartenh\u00e4user Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Gartenh\u00e4user Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }

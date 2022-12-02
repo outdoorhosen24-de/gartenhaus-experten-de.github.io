@@ -51,12 +51,15 @@
             "title": "Gartenhäuser - Alles für Ihren Garten",
             "metaDescription": "Gartenhäuser in bester Qualität und zu günstigen Preisen. Hier findest du alles, was du für deinen Garten brauchst!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Gartenhäuser: Die schönsten Häuser für Ihren Garten",
-                    "text": "Gartenhäuser sind kleine Häuser, die in Gärten oder auf Terrassen stehen. Sie können aus Holz, Metall oder anderen Materialien gebaut werden und dienen häufig als Abstellraum für Gartenwerkzeuge oder als Unterkunft für Haustiere. Gartenhäuser können auch als Gästehäuser oder als Bürogebäude genutzt werden."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Gartenhäuser: Die schönsten Häuser für Ihren Garten",
+                        "text": "Gartenhäuser sind kleine Häuser, die in Gärten oder auf Terrassen stehen. Sie können aus Holz, Metall oder anderen Materialien gebaut werden und dienen häufig als Abstellraum für Gartenwerkzeuge oder als Unterkunft für Haustiere. Gartenhäuser können auch als Gästehäuser oder als Bürogebäude genutzt werden."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Gartenhäuser Shop",

@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "gartenhaus-experten.de",
     "hostname": "https://www.gartenhaus-experten.de/",
     "email": "gartenhaus-experten.de@surrealnetworks.io",
     "organization": "gartenhaus-experten.de",
     "logoText": "Gartenhaus-experten.de",
-    "title": "Gartenhäuser",
-    "subline": "Der Online Shop für Gartenhäuser",
+    "title": "Gartenhäuser, Grillkotas & Zubehör",
+    "subline": "Im Garten entspannen oder grillen - bei jedem Wetter! ",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenhäuser",
-        "featureText": "Gartenhäuser sind die perfekte Ergänzung für jeden Garten. Sie bieten Schutz vor Wind und Wetter und sind eine großartige Möglichkeit, Ihren Garten zu personalisieren. Bei uns finden Sie eine große Auswahl an Gartenhäusern in verschiedenen Größen, Designs und Ausführungen.",
+        "featureText": "Herzlich willkommen in unserem Online Shop! Bei uns sind Sie genau richtig, wenn Ihnen noch das „gewisse etwas“ in Ihrem Garten fehlt. Bei Wind und Wetter trotzdem eine schöne und entspannte Zeit im Garten verbringen? Diesen Wunsch können wir Ihnen erfüllen! Entdecken unser umfangreiches Sortiment. Bei uns finden Sie verschiedene Gartenhäuser aus Holz, Metall oder Kunststoff, passendes Zubehör wie Türen und Fenster sowie hochwertige Grillkotas. Wir wünschen Ihnen viel Spaß beim Shoppen.",
         "index": {
-            "title": "Gartenhäuser - Alles für Ihren Garten",
-            "metaDescription": "Gartenhäuser in bester Qualität und zu günstigen Preisen. Hier findest du alles, was du für deinen Garten brauchst!",
+            "title": "Gartenhäuser, Grillkotas & Zubehör | Alles für Ihren Garten",
+            "metaDescription": "Finden Sie die passenden Produkte für Ihren Garten. Jetzt online bestellen und nach Hause liefern lassen. Top Qualität | Günstige Preise | Schnelle Lieferung.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Gartenhäuser Shop",
-            "metaDescription": "Gartenhäuser in bester Qualität online kaufen im Shop.",
+            "title": "Ihr Shop für Gartenhäuser & Grillkotas ",
+            "metaDescription": "Hier finden Sie in übersichtlicher Darstellung eine riesige Auswahl unserer Produkte: Gartenhäuser aus Holz, Kunstoff und Metall • Verschiedene Grillkotas uvm.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Gartenhäuser - Manufacturer",
-            "metaDescription": "Gartenhäuser - Finden Sie hier den passenden Hersteller für Ihr Gartenhaus. Wir haben eine große Auswahl an Gartenhäusern für Sie!",
+            "title": "Gartenhäuser & Grillkotas | Top Marken bei uns online kaufen",
+            "metaDescription": "Finden Sie hier den passenden Hersteller für Ihr Gartenhaus oder Ihre Grillkota. Alpholz • Biohort • Duramax • Floraworld • Grosfillex uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Gartenhäuser - die besten Häuser für Ihren Garten",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das ideale Gartenhäuschen für Ihren Garten. $KATEGORIE",
+        "defaultTitle": "$PRODUKT | günstiger kaufen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das ideale Produkt für Ihren Garten. Entdecken Sie noch mehr bei uns im Bereich $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Gartenhäuser für jeden Geschmack",
-        "defaultMetaDescription": "Gartenhäuser in verschiedenen Größen und Ausführungen. $KATEGORIE für Ihren Garten.",
+        "defaultTitle": "$KATEGORIE: Den Garten bei Wind & Wetter genießen",
+        "defaultMetaDescription": "Gartenhäuser und Grillkotas  in verschiedenen Größen und Ausführungen unter $KATEGORIE finden und tolle Angebote sichern!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Gartenhäuser: Hier finden Sie unsere aktuelle Kollektion an Gartenhäusern in unterschiedlichen Größen, Ausführungen und Designs.",
+        "defaultTitle": "$HERSTELLER | Gartenhäuser & Grillkotas",
+        "defaultMetaDescription": "$HERSTELLER | Hier finden Sie unsere aktuelle Produkte an Gartenhäusern und Grillkotas in unterschiedlichen Größen, Ausführungen und Designs von $HERSTELLER.",
         "defaultRobots": "index, follow",
         "brands": [
             {

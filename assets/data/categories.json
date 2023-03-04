@@ -2,14 +2,14 @@
     {
         "key": "holz-gartenhäuser",
         "name": "Holz-Gartenhäuser",
-        "slug": "holz-gartenhauser",
+        "slug": "holz-gartenhaeuser",
         "productCategory": "Holz-Gartenhäuser",
         "subCategories": []
     },
     {
         "key": "metall-gerätehäuser",
         "name": "Metall-Gerätehäuser",
-        "slug": "metall-geratehauser",
+        "slug": "metall-geraetehaeuser",
         "productCategory": "Metall-Gerätehäuser",
         "subCategories": []
     },
@@ -23,28 +23,28 @@
     {
         "key": "gartenhaus-zubehör",
         "name": "Gartenhaus-Zubehör",
-        "slug": "gartenhaus-zubehor",
+        "slug": "gartenhaus-zubehoer",
         "productCategory": "Gartenhaus-Zubehör",
         "subCategories": []
     },
     {
         "key": "wpc-gartenhäuser",
         "name": "WPC-Gartenhäuser",
-        "slug": "wpc-gartenhauser",
+        "slug": "wpc-gartenhaeuser",
         "productCategory": "WPC-Gartenhäuser",
         "subCategories": []
     },
     {
         "key": "kunststoff-gartenhäuser",
         "name": "Kunststoff-Gartenhäuser",
-        "slug": "kunststoff-gartenhauser",
+        "slug": "kunststoff-gartenhaeuser",
         "productCategory": "Kunststoff-Gartenhäuser",
         "subCategories": []
     },
     {
         "key": "weekendhäuser",
         "name": "Weekendhäuser",
-        "slug": "weekendhauser",
+        "slug": "weekendhaeuser",
         "productCategory": "Weekendhäuser",
         "subCategories": []
     }

@@ -1,228 +1,235 @@
 {
-  "configIsReady": true,
-  "domain": "gartenhaus-experten.de",
-  "hostname": "https://www.gartenhaus-experten.de/",
-  "email": "gartenhaus-experten.de@surrealnetworks.io",
-  "organization": "gartenhaus-experten.de",
-  "logoText": "Gartenhaus-experten.de",
-  "title": "Gartenhäuser, Grillkotas & Zubehör",
-  "subline": "Im Garten entspannen oder grillen - bei jedem Wetter! ",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "2995801",
-    "2998243",
-    "2083640",
-    "3014529",
-    "3011863",
-    "2995629"
-  ],
-  "winnerProducts": [
-    "6322341",
-    "4582292",
-    "5363486"
-  ],
-  "featuredCategories": [
-    "Weekendhäuser",
-    "WPC-Gartenhäuser",
-    "Grillkotas",
-    "Kunststoff-Gartenhäuser",
-    "Metall-Gerätehäuser",
-    "Metall-Gerätehäuser"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Gartenhäuser",
-    "featureText": "Herzlich willkommen in unserem Online Shop! Bei uns sind Sie genau richtig, wenn Ihnen noch das „gewisse etwas“ in Ihrem Garten fehlt. Bei Wind und Wetter trotzdem eine schöne und entspannte Zeit im Garten verbringen? Diesen Wunsch können wir Ihnen erfüllen! Entdecken unser umfangreiches Sortiment. Bei uns finden Sie verschiedene Gartenhäuser aus Holz, Metall oder Kunststoff, passendes Zubehör wie Türen und Fenster sowie hochwertige Grillkotas. Wir wünschen Ihnen viel Spaß beim Shoppen.",
-    "index": {
-      "title": "Gartenhäuser, Grillkotas & Zubehör | Alles für Ihren Garten",
-      "metaDescription": "Finden Sie die passenden Produkte für Ihren Garten. Jetzt online bestellen und nach Hause liefern lassen. Top Qualität | Günstige Preise | Schnelle Lieferung.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Gartenhaus-Experten!",
-            "text": "Herzlich Willkommen auf unserer Website! Wir sind Ihre Experten für Gartenhäuser in allen Formen und Größen. Unser Online-Shop bietet Ihnen eine große Auswahl an Gartenhäusern aus verschiedenen Materialien wie Holz, Metall, Kunststoff, WPC und mehr. Egal, ob Sie ein geräumiges Holz-Gartenhaus für Ihre Gartengeräte oder eine gemütliche Grillkota für Ihre Freizeit suchen, bei uns finden Sie garantiert das passende Modell. Und wenn Sie Ihr neues Gartenhaus noch individueller gestalten möchten, haben wir auch eine Vielzahl an Gartenhaus-Zubehör im Angebot. Stöbern Sie durch unsere Kategorien und entdecken Sie unser vielfältiges Sortiment an Weekendhäusern, Kunststoff-Gartenhäusern und vielem mehr. Bei Fragen stehen wir Ihnen jederzeit gerne zur Verfügung."
-          },
-          {
-            "title": "Holz-Gartenhäuser",
-            "text": "Entdecken Sie die vielfältige Auswahl an <a href=\"/kategorie/holz-gartenhaeuser/\" title=\"Holz-Gartenhäuser\">Holz-Gartenhäuser</a>n bei Gartenhaus-Experten. Unsere hochwertigen Gartenhäuser aus Holz bieten Ihnen eine natürliche und langlebige Lösung für Ihren Garten. Ob Sie ein kleines Gartenhäuschen für Ihre Gartengeräte oder eine größere Unterkunft für Gäste suchen, wir haben das passende Modell für Sie. Stöbern Sie jetzt durch unsere Produkte und finden Sie Ihr Traum-Gartenhäuschen aus Holz."
-          },
-          {
-            "title": "Metall-Gerätehäuser",
-            "text": "Schützen Sie Ihre Gartengeräte vor Witterungseinflüssen mit einem robusten Metall-Gerätehaus von Gartenhaus-Experten. Unsere Gerätehäuser aus Metall bieten eine langlebige und wetterbeständige Lösung für den Schutz Ihrer Ausrüstung. Wählen Sie aus einer Vielzahl von Größen und Farben, um das perfekte Gerätehaus für Ihren Garten zu finden. Stöbern Sie jetzt durch unsere Produkte und bestellen Sie Ihr neues Metall-Gerätehaus."
-          },
-          {
-            "title": "Grillkotas",
-            "text": "Erleben Sie den ultimativen Grillgenuss mit einer Grillkota von Gartenhaus-Experten. Unsere <a href=\"/kategorie/grillkotas/\" title=\"Grillkotas\">Grillkotas</a> sind aus hochwertigen Materialien gefertigt und bieten eine gemütliche Umgebung für Grillabende mit Freunden und Familie. Wählen Sie aus einer Vielzahl von Größen und Designs, um das perfekte Modell für Ihren Garten zu finden. Stöbern Sie jetzt durch unsere Produkte und bestellen Sie Ihre neue Grillkota."
-          },
-          {
-            "title": "Gartenhaus-Zubehör",
-            "text": "Verleihen Sie Ihrem Gartenhaus den letzten Schliff mit dem hochwertigen Zubehör von Gartenhaus-Experten. Von Fensterläden bis hin zu Türen und Zäunen finden Sie bei uns alles, was Sie für den perfekten Abschluss Ihres Gartenhauses benötigen. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie die Vielfalt an Möglichkeiten, um Ihr Gartenhaus noch individueller zu gestalten."
-          },
-          {
-            "title": "WPC-Gartenhäuser",
-            "text": "Erleben Sie die Vorteile von <a href=\"/kategorie/wpc-gartenhaeuser/\" title=\"WPC-Gartenhäuser\">WPC-Gartenhäuser</a>n bei Gartenhaus-Experten. Unsere Gartenhäuser aus WPC (Wood-Plastic-Composite) sind robust, langlebig und pflegeleicht. Ob Sie ein kleines Gartenhäuschen für Ihre Gartengeräte oder eine größere Unterkunft für Gäste suchen, wir haben das passende Modell für Sie. Stöbern Sie jetzt durch unsere Produkte und entdecken Sie die Vorteile von WPC-Gartenhäusern."
-          },
-          {
-            "title": "Kunststoff-Gartenhäuser",
-            "text": "Entdecken Sie die Vorteile von <a href=\"/kategorie/kunststoff-gartenhaeuser/\" title=\"Kunststoff-Gartenhäuser\">Kunststoff-Gartenhäuser</a>n bei Gartenhaus-Experten. Unsere Gartenhäuser aus Kunststoff sind robust, langlebig und pflegeleicht. Ob Sie ein kleines Gartenhäuschen für Ihre Gartengeräte oder eine größere Unterkunft für Gäste suchen, wir haben das passende Modell für Sie. Stöbern Sie jetzt durch unsere Produkte und entdecken Sie die Vorteile von Kunststoff-Gartenhäusern."
-          },
-          {
-            "title": "Weekendhäuser",
-            "text": "Erleben Sie unvergessliche Wochenenden in Ihrem eigenen Weekendhaus bei Gartenhaus-Experten. Unsere hochwertigen Gartenhäuser bieten Ihnen eine gemütliche und komfortable Unterkunft für Ihre Freizeit. Ob Sie ein kleines Häuschen für Ihre Ruheoasen oder eine größere Unterkunft für Gäste suchen, wir haben das passende Modell für Sie. Stöbern Sie jetzt durch unsere Produkte und entdecken Sie die Vielfalt an Möglichkeiten, um Ihre Freizeit noch unvergesslicher zu gestalten."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "gartenhaus-experten.de",
+    "hostname": "https://www.gartenhaus-experten.de/",
+    "email": "gartenhaus-experten.de@surrealnetworks.io",
+    "organization": "gartenhaus-experten.de",
+    "logoText": "Gartenhaus-experten.de",
+    "title": "Gartenhäuser, Grillkotas & Zubehör",
+    "subline": "Im Garten entspannen oder grillen - bei jedem Wetter! ",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "2995801",
+        "2998243",
+        "2083640",
+        "3014529",
+        "3011863",
+        "2995629"
+    ],
+    "winnerProducts": [
+        "6322341",
+        "4582292",
+        "5363486"
+    ],
+    "featuredCategories": [
+        "Weekendhäuser",
+        "WPC-Gartenhäuser",
+        "Grillkotas",
+        "Kunststoff-Gartenhäuser",
+        "Metall-Gerätehäuser",
+        "Metall-Gerätehäuser"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Gartenhäuser",
+        "featureText": "Herzlich willkommen in unserem Online Shop! Bei uns sind Sie genau richtig, wenn Ihnen noch das „gewisse etwas“ in Ihrem Garten fehlt. Bei Wind und Wetter trotzdem eine schöne und entspannte Zeit im Garten verbringen? Diesen Wunsch können wir Ihnen erfüllen! Entdecken unser umfangreiches Sortiment. Bei uns finden Sie verschiedene Gartenhäuser aus Holz, Metall oder Kunststoff, passendes Zubehör wie Türen und Fenster sowie hochwertige Grillkotas. Wir wünschen Ihnen viel Spaß beim Shoppen.",
+        "index": {
+            "title": "Gartenhäuser, Grillkotas & Zubehör | Alles für Ihren Garten",
+            "metaDescription": "Finden Sie die passenden Produkte für Ihren Garten. Jetzt online bestellen und nach Hause liefern lassen. Top Qualität | Günstige Preise | Schnelle Lieferung.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Gartenhaus-Experten!",
+                        "text": "Herzlich Willkommen auf unserer Website! Wir sind Ihre Experten für Gartenhäuser in allen Formen und Größen. Unser Online-Shop bietet Ihnen eine große Auswahl an Gartenhäusern aus verschiedenen Materialien wie Holz, Metall, Kunststoff, WPC und mehr. Egal, ob Sie ein geräumiges Holz-Gartenhaus für Ihre Gartengeräte oder eine gemütliche Grillkota für Ihre Freizeit suchen, bei uns finden Sie garantiert das passende Modell. Und wenn Sie Ihr neues Gartenhaus noch individueller gestalten möchten, haben wir auch eine Vielzahl an Gartenhaus-Zubehör im Angebot. Stöbern Sie durch unsere Kategorien und entdecken Sie unser vielfältiges Sortiment an Weekendhäusern, Kunststoff-Gartenhäusern und vielem mehr. Bei Fragen stehen wir Ihnen jederzeit gerne zur Verfügung."
+                    },
+                    {
+                        "title": "Holz-Gartenhäuser",
+                        "text": "Entdecken Sie die vielfältige Auswahl an <a href=\"/kategorie/holz-gartenhaeuser/\" title=\"Holz-Gartenhäuser\">Holz-Gartenhäuser</a>n bei Gartenhaus-Experten. Unsere hochwertigen Gartenhäuser aus Holz bieten Ihnen eine natürliche und langlebige Lösung für Ihren Garten. Ob Sie ein kleines Gartenhäuschen für Ihre Gartengeräte oder eine größere Unterkunft für Gäste suchen, wir haben das passende Modell für Sie. Stöbern Sie jetzt durch unsere Produkte und finden Sie Ihr Traum-Gartenhäuschen aus Holz."
+                    },
+                    {
+                        "title": "Metall-Gerätehäuser",
+                        "text": "Schützen Sie Ihre Gartengeräte vor Witterungseinflüssen mit einem robusten Metall-Gerätehaus von Gartenhaus-Experten. Unsere Gerätehäuser aus Metall bieten eine langlebige und wetterbeständige Lösung für den Schutz Ihrer Ausrüstung. Wählen Sie aus einer Vielzahl von Größen und Farben, um das perfekte Gerätehaus für Ihren Garten zu finden. Stöbern Sie jetzt durch unsere Produkte und bestellen Sie Ihr neues Metall-Gerätehaus."
+                    },
+                    {
+                        "title": "Grillkotas",
+                        "text": "Erleben Sie den ultimativen Grillgenuss mit einer Grillkota von Gartenhaus-Experten. Unsere <a href=\"/kategorie/grillkotas/\" title=\"Grillkotas\">Grillkotas</a> sind aus hochwertigen Materialien gefertigt und bieten eine gemütliche Umgebung für Grillabende mit Freunden und Familie. Wählen Sie aus einer Vielzahl von Größen und Designs, um das perfekte Modell für Ihren Garten zu finden. Stöbern Sie jetzt durch unsere Produkte und bestellen Sie Ihre neue Grillkota."
+                    },
+                    {
+                        "title": "Gartenhaus-Zubehör",
+                        "text": "Verleihen Sie Ihrem Gartenhaus den letzten Schliff mit dem hochwertigen Zubehör von Gartenhaus-Experten. Von Fensterläden bis hin zu Türen und Zäunen finden Sie bei uns alles, was Sie für den perfekten Abschluss Ihres Gartenhauses benötigen. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie die Vielfalt an Möglichkeiten, um Ihr Gartenhaus noch individueller zu gestalten."
+                    },
+                    {
+                        "title": "WPC-Gartenhäuser",
+                        "text": "Erleben Sie die Vorteile von <a href=\"/kategorie/wpc-gartenhaeuser/\" title=\"WPC-Gartenhäuser\">WPC-Gartenhäuser</a>n bei Gartenhaus-Experten. Unsere Gartenhäuser aus WPC (Wood-Plastic-Composite) sind robust, langlebig und pflegeleicht. Ob Sie ein kleines Gartenhäuschen für Ihre Gartengeräte oder eine größere Unterkunft für Gäste suchen, wir haben das passende Modell für Sie. Stöbern Sie jetzt durch unsere Produkte und entdecken Sie die Vorteile von WPC-Gartenhäusern."
+                    },
+                    {
+                        "title": "Kunststoff-Gartenhäuser",
+                        "text": "Entdecken Sie die Vorteile von <a href=\"/kategorie/kunststoff-gartenhaeuser/\" title=\"Kunststoff-Gartenhäuser\">Kunststoff-Gartenhäuser</a>n bei Gartenhaus-Experten. Unsere Gartenhäuser aus Kunststoff sind robust, langlebig und pflegeleicht. Ob Sie ein kleines Gartenhäuschen für Ihre Gartengeräte oder eine größere Unterkunft für Gäste suchen, wir haben das passende Modell für Sie. Stöbern Sie jetzt durch unsere Produkte und entdecken Sie die Vorteile von Kunststoff-Gartenhäusern."
+                    },
+                    {
+                        "title": "Weekendhäuser",
+                        "text": "Erleben Sie unvergessliche Wochenenden in Ihrem eigenen Weekendhaus bei Gartenhaus-Experten. Unsere hochwertigen Gartenhäuser bieten Ihnen eine gemütliche und komfortable Unterkunft für Ihre Freizeit. Ob Sie ein kleines Häuschen für Ihre Ruheoasen oder eine größere Unterkunft für Gäste suchen, wir haben das passende Modell für Sie. Stöbern Sie jetzt durch unsere Produkte und entdecken Sie die Vielfalt an Möglichkeiten, um Ihre Freizeit noch unvergesslicher zu gestalten."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Ihr Shop für Gartenhäuser & Grillkotas ",
+            "metaDescription": "Hier finden Sie in übersichtlicher Darstellung eine riesige Auswahl unserer Produkte: Gartenhäuser aus Holz, Kunstoff und Metall • Verschiedene Grillkotas uvm.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Gartenhäuser & Grillkotas | Top Marken bei uns online kaufen",
+            "metaDescription": "Finden Sie hier den passenden Hersteller für Ihr Gartenhaus oder Ihre Grillkota. Alpholz • Biohort • Duramax • Floraworld • Grosfillex uvm.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Ihr Shop für Gartenhäuser & Grillkotas ",
-      "metaDescription": "Hier finden Sie in übersichtlicher Darstellung eine riesige Auswahl unserer Produkte: Gartenhäuser aus Holz, Kunstoff und Metall • Verschiedene Grillkotas uvm.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Gartenhäuser & Grillkotas | Top Marken bei uns online kaufen",
-      "metaDescription": "Finden Sie hier den passenden Hersteller für Ihr Gartenhaus oder Ihre Grillkota. Alpholz • Biohort • Duramax • Floraworld • Grosfillex uvm.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | günstiger kaufen",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das ideale Produkt für Ihren Garten. Entdecken Sie noch mehr bei uns im Bereich $KATEGORIE.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "6322341",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | günstiger kaufen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das ideale Produkt für Ihren Garten. Entdecken Sie noch mehr bei uns im Bereich $KATEGORIE.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Biohort Regenfallrohrset zu AvantGarde Quarzgrau-Metallic",
-              "text": "<p class=\"justify\">Das Biohort Regenfallrohrset zu AvantGarde Quarzgrau-Metallic (SKU: 6322341) ist ein hochwertiges Gartenhaus-Zubehör, das speziell für die AvantGarde Gartenhausserie von Biohort entwickelt wurde. Mit der GTIN 9003414440821 ist das Produkt eindeutig identifizierbar und lässt sich leicht wiederfinden. Die Marke Biohort ist für ihre Qualität und Langlebigkeit bekannt, und dieses Regenfallrohrset ist da keine Ausnahme.</p><p class=\"justify\">Das Set besteht aus zwei Fallrohren mit Auslaufbogen und einer Länge von 182 cm. Damit wird der Regenwasserabfluss von Ihrem Gartenhausdach effizient geregelt und das Wasser wird gezielt und ohne Schäden an Ihrem AvantGarde Gartenhaus in den Untergrund geleitet. Der Einbau ist einfach, und das benötigte Befestigungsmaterial wird mitgeliefert.</p><p class=\"justify\">Das Biohort Regenfallrohrset überzeugt nicht nur durch seine Funktionalität, sondern auch durch seine ansprechende Optik in Quarzgrau-Metallic. Es passt perfekt zum Design des AvantGarde Gartenhauses und lässt es optisch noch ansprechender wirken.</p><p class=\"justify\">Wie bei vielen Biohort-Produkten erhalten Sie auch bei diesem Regenfallrohrset ausgezeichnete Qualität, die sich in der hohen Bewertung von 5 Sternen und über 431 positiven Kundenbewertungen widerspiegelt. Wenn Sie auf der Suche nach einem Regenfallrohrset für Ihr AvantGarde Gartenhaus von Biohort sind, ist das Biohort Regenfallrohrset zu AvantGarde Quarzgrau-Metallic (SKU: 6322341) die perfekte Wahl für Sie. Mit einem Preis von nur 79,99 Euro ist dieses Set nicht nur ein praktisches, sondern auch ein preiswertes Zubehör für Ihr Gartenhaus.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "4582292",
-        "seo": {
-          "texts": [
-            {
-              "title": "Grosfillex Kunststoff-Gartenhaus Deco H 11 Graugrün BxT: 315 cm x 355 cm",
-              "text": "<p class=\"justify\">Das Grosfillex Kunststoff-Gartenhaus Deco H 11 Graugrün mit den Maßen BxT: 315 cm x 355 cm ist eine hochwertige und praktische Lösung für alle, die ihren Garten verschönern und gleichzeitig Ordnung schaffen möchten. Dieses Gartenhaus gehört zur Kategorie Kunststoff-Gartenhäuser und zeichnet sich durch seine Langlebigkeit und Funktionalität aus. Die Marke Grosfillex ist bekannt für ihr Sortiment an Garten- und Freizeitprodukten, und dieses Gartenhaus ist keine Ausnahme.</p><p class=\"justify\">Der geräumige Innenraum von 11 m² bietet ausreichend Platz für Gartengeräte, Gartenmöbel und Terrassengegenstände. Die Seitenwandhöhe von 188 cm ermöglicht die problemlose Platzierung von höheren Regalen zur ordentlichen Lagerung im Gartenhaus. Hergestellt aus hochwertigem Polyvinylchlorid (PVC), ist das Gartenhaus äußerst witterungsbeständig und UV-beständig, was eine lange Nutzungsdauer garantiert. Die Metall-Verstärkung sorgt für Robustheit und Standfestigkeit, sodass das Gartenhaus sowohl vor Regen als auch vor Wind geschützt ist.</p><p class=\"justify\">Das Grosfillex Kunststoff-Gartenhaus Deco H 11 benötigt keine extra Lackierung, da es frostsicher und witterungsbeständig ist. Die große Doppeltür erleichtert den Zugang zum Haus und ist besonders vorteilhaft, wenn man größere Gartengeräte einlagern möchte. Dank der Türausschnitte und des Seitenfensters dringt ausreichend Sonnenlicht in den Innenraum, wodurch die Nutzung des Gartenhauses angenehmer und freundlicher gestaltet wird.</p><p class=\"justify\">Ein weiterer Pluspunkt dieses Gartenhauses ist seine Nachhaltigkeit. Es ist zu 99% recycelbar und daher sehr umweltfreundlich. Mit dem Kauf eines Grosfillex Kunststoff-Gartenhauses Deco H 11 Graugrün tragen Sie somit auch zum Umweltschutz bei. Entdecken Sie jetzt die Vorteile dieses Gartenhauses und sorgen Sie für mehr Ordnung und Ästhetik in Ihrem Garten.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5363486",
-        "seo": {
-          "texts": [
-            {
-              "title": "Biohort Metall-Gerätehaus HighLine Dunkelgrau-Metallic 3,5 m²",
-              "text": "<p class=\"justify\">Das Biohort Metall-Gerätehaus HighLine Dunkelgrau-Metallic ist eine hervorragende Lösung zur Aufbewahrung Ihrer Gartenutensilien und -geräte auf einer Grundfläche von 3,5 m². Mit seinem modernen und ansprechenden Design passt das Gerätehaus von Biohort sowohl in jeden Garten als auch auf Ihre Terrasse oder in Ihren Hof. Die hohen Qualitätsstandards der Marke Biohort garantieren Ihnen eine langlebige und robuste Konstruktion Ihres Metall-Gerätehauses.</p><p class=\"justify\">Die Stabilität des Metall-Gerätehauses wird durch die Wandstärke von 0,5 mm und die hochwertige feuerverzinkte und lackierte Oberfläche gewährleistet. Dadurch ist das Gerätehaus optimal vor Witterungseinflüssen und Korrosion geschützt. Zudem ist das Dach für eine maximale Schneelast von 150 kg/m² ausgelegt, sodass es auch in schneereichen Regionen bestens verwendbar ist.</p><p class=\"justify\">Der breite Eingang des Biohort Metall-Gerätehauses ermöglicht einen einfachen Zugang, auch mit größeren Geräten, Fahrrädern oder Gartenmöbeln. Eine Durchgangsbreite von 76 cm und Durchgangshöhe von 182 cm bieten ausreichend Platz für ein leichtes Manövrieren Ihrer Gegenstände. Die Firsthöhe von 222 cm sorgt darüber hinaus für eine angenehme Kopffreiheit im Innenraum.</p><p class=\"justify\">Die dunkelgrau-metallic Oberfläche des Biohort Metall-Gerätehauses HighLine verleiht ihm eine zeitgemäße und elegante Optik. Darüber hinaus ist das Gerätehaus einfach aufzubauen und sollte sich mühelos in Ihre Gartenlandschaft integrieren lassen. Mit einer ansprechenden Optik, einer stabilen Konstruktion und einer platzsparenden Gestaltung bietet Ihnen das Biohort Metall-Gerätehaus HighLine Dunkelgrau-Metallic die perfekte Lösung zur Aufbewahrung Ihrer Gartenutensilien und -geräte.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE: Den Garten bei Wind & Wetter genießen",
-    "defaultMetaDescription": "Gartenhäuser und Grillkotas  in verschiedenen Größen und Ausführungen unter $KATEGORIE finden und tolle Angebote sichern!",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "6322341",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Biohort Regenfallrohrset zu AvantGarde Quarzgrau-Metallic",
+                            "text": "<p class=\"justify\">Das Biohort Regenfallrohrset zu AvantGarde Quarzgrau-Metallic (SKU: 6322341) ist ein hochwertiges Gartenhaus-Zubehör, das speziell für die AvantGarde Gartenhausserie von Biohort entwickelt wurde. Mit der GTIN 9003414440821 ist das Produkt eindeutig identifizierbar und lässt sich leicht wiederfinden. Die Marke Biohort ist für ihre Qualität und Langlebigkeit bekannt, und dieses Regenfallrohrset ist da keine Ausnahme.</p><p class=\"justify\">Das Set besteht aus zwei Fallrohren mit Auslaufbogen und einer Länge von 182 cm. Damit wird der Regenwasserabfluss von Ihrem Gartenhausdach effizient geregelt und das Wasser wird gezielt und ohne Schäden an Ihrem AvantGarde Gartenhaus in den Untergrund geleitet. Der Einbau ist einfach, und das benötigte Befestigungsmaterial wird mitgeliefert.</p><p class=\"justify\">Das Biohort Regenfallrohrset überzeugt nicht nur durch seine Funktionalität, sondern auch durch seine ansprechende Optik in Quarzgrau-Metallic. Es passt perfekt zum Design des AvantGarde Gartenhauses und lässt es optisch noch ansprechender wirken.</p><p class=\"justify\">Wie bei vielen Biohort-Produkten erhalten Sie auch bei diesem Regenfallrohrset ausgezeichnete Qualität, die sich in der hohen Bewertung von 5 Sternen und über 431 positiven Kundenbewertungen widerspiegelt. Wenn Sie auf der Suche nach einem Regenfallrohrset für Ihr AvantGarde Gartenhaus von Biohort sind, ist das Biohort Regenfallrohrset zu AvantGarde Quarzgrau-Metallic (SKU: 6322341) die perfekte Wahl für Sie. Mit einem Preis von nur 79,99 Euro ist dieses Set nicht nur ein praktisches, sondern auch ein preiswertes Zubehör für Ihr Gartenhaus.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4582292",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Grosfillex Kunststoff-Gartenhaus Deco H 11 Graugrün BxT: 315 cm x 355 cm",
+                            "text": "<p class=\"justify\">Das Grosfillex Kunststoff-Gartenhaus Deco H 11 Graugrün mit den Maßen BxT: 315 cm x 355 cm ist eine hochwertige und praktische Lösung für alle, die ihren Garten verschönern und gleichzeitig Ordnung schaffen möchten. Dieses Gartenhaus gehört zur Kategorie Kunststoff-Gartenhäuser und zeichnet sich durch seine Langlebigkeit und Funktionalität aus. Die Marke Grosfillex ist bekannt für ihr Sortiment an Garten- und Freizeitprodukten, und dieses Gartenhaus ist keine Ausnahme.</p><p class=\"justify\">Der geräumige Innenraum von 11 m² bietet ausreichend Platz für Gartengeräte, Gartenmöbel und Terrassengegenstände. Die Seitenwandhöhe von 188 cm ermöglicht die problemlose Platzierung von höheren Regalen zur ordentlichen Lagerung im Gartenhaus. Hergestellt aus hochwertigem Polyvinylchlorid (PVC), ist das Gartenhaus äußerst witterungsbeständig und UV-beständig, was eine lange Nutzungsdauer garantiert. Die Metall-Verstärkung sorgt für Robustheit und Standfestigkeit, sodass das Gartenhaus sowohl vor Regen als auch vor Wind geschützt ist.</p><p class=\"justify\">Das Grosfillex Kunststoff-Gartenhaus Deco H 11 benötigt keine extra Lackierung, da es frostsicher und witterungsbeständig ist. Die große Doppeltür erleichtert den Zugang zum Haus und ist besonders vorteilhaft, wenn man größere Gartengeräte einlagern möchte. Dank der Türausschnitte und des Seitenfensters dringt ausreichend Sonnenlicht in den Innenraum, wodurch die Nutzung des Gartenhauses angenehmer und freundlicher gestaltet wird.</p><p class=\"justify\">Ein weiterer Pluspunkt dieses Gartenhauses ist seine Nachhaltigkeit. Es ist zu 99% recycelbar und daher sehr umweltfreundlich. Mit dem Kauf eines Grosfillex Kunststoff-Gartenhauses Deco H 11 Graugrün tragen Sie somit auch zum Umweltschutz bei. Entdecken Sie jetzt die Vorteile dieses Gartenhauses und sorgen Sie für mehr Ordnung und Ästhetik in Ihrem Garten.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5363486",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Biohort Metall-Gerätehaus HighLine Dunkelgrau-Metallic 3,5 m²",
+                            "text": "<p class=\"justify\">Das Biohort Metall-Gerätehaus HighLine Dunkelgrau-Metallic ist eine hervorragende Lösung zur Aufbewahrung Ihrer Gartenutensilien und -geräte auf einer Grundfläche von 3,5 m². Mit seinem modernen und ansprechenden Design passt das Gerätehaus von Biohort sowohl in jeden Garten als auch auf Ihre Terrasse oder in Ihren Hof. Die hohen Qualitätsstandards der Marke Biohort garantieren Ihnen eine langlebige und robuste Konstruktion Ihres Metall-Gerätehauses.</p><p class=\"justify\">Die Stabilität des Metall-Gerätehauses wird durch die Wandstärke von 0,5 mm und die hochwertige feuerverzinkte und lackierte Oberfläche gewährleistet. Dadurch ist das Gerätehaus optimal vor Witterungseinflüssen und Korrosion geschützt. Zudem ist das Dach für eine maximale Schneelast von 150 kg/m² ausgelegt, sodass es auch in schneereichen Regionen bestens verwendbar ist.</p><p class=\"justify\">Der breite Eingang des Biohort Metall-Gerätehauses ermöglicht einen einfachen Zugang, auch mit größeren Geräten, Fahrrädern oder Gartenmöbeln. Eine Durchgangsbreite von 76 cm und Durchgangshöhe von 182 cm bieten ausreichend Platz für ein leichtes Manövrieren Ihrer Gegenstände. Die Firsthöhe von 222 cm sorgt darüber hinaus für eine angenehme Kopffreiheit im Innenraum.</p><p class=\"justify\">Die dunkelgrau-metallic Oberfläche des Biohort Metall-Gerätehauses HighLine verleiht ihm eine zeitgemäße und elegante Optik. Darüber hinaus ist das Gerätehaus einfach aufzubauen und sollte sich mühelos in Ihre Gartenlandschaft integrieren lassen. Mit einer ansprechenden Optik, einer stabilen Konstruktion und einer platzsparenden Gestaltung bietet Ihnen das Biohort Metall-Gerätehaus HighLine Dunkelgrau-Metallic die perfekte Lösung zur Aufbewahrung Ihrer Gartenutensilien und -geräte.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE: Den Garten bei Wind & Wetter genießen",
+        "defaultMetaDescription": "Gartenhäuser und Grillkotas  in verschiedenen Größen und Ausführungen unter $KATEGORIE finden und tolle Angebote sichern!",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Gartenhäuser & Grillkotas",
+        "defaultMetaDescription": "$HERSTELLER | Hier finden Sie unsere aktuelle Produkte an Gartenhäusern und Grillkotas in unterschiedlichen Größen, Ausführungen und Designs von $HERSTELLER.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Gartenhäuser",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Gartenhäuser Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Gartenhäuser Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Gartenhäuser & Grillkotas",
-    "defaultMetaDescription": "$HERSTELLER | Hier finden Sie unsere aktuelle Produkte an Gartenhäusern und Grillkotas in unterschiedlichen Größen, Ausführungen und Designs von $HERSTELLER.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Gartenhäuser",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Gartenhäuser Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Gartenhäuser Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
